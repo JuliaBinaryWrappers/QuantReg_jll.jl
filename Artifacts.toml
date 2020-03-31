@@ -1,0 +1,378 @@
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "fabcf5d4eb8a782d4beb30e800ee92d84e9ba62b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "8d071f213d8fe7673abecd45582cd82ba3db215d1aedee73848fcecd38478bb0"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[QuantReg]]
+arch = "powerpc64le"
+git-tree-sha1 = "6c96c4b8835733c2a8ea8821181f9b7bc5324a63"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "5b1e212c5bfcfb394588f719c510605f59855e2355e7e0ca2de2c19521c01fef"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[QuantReg]]
+arch = "powerpc64le"
+git-tree-sha1 = "1546617e8398d9a8a351fe6af35d19e2c830691a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "b57060d54e43c00dc4a43014120ca70d41994c7d15474f8a07927d5510e95ee1"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[QuantReg]]
+arch = "powerpc64le"
+git-tree-sha1 = "ff7b79d5e1071093948f799bf2a7fa35f74aac12"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "52d27c7b4cbd8f29b199114e874d27fc4e6475b7384053d64c8351fb3176fc90"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[QuantReg]]
+arch = "armv7l"
+git-tree-sha1 = "4b94f376404f60ab6534845cc2260eb47cb32344"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "c12aef8ec306fd7352a312377afa2a19639c20cd9c02087929b9b6d2ce5faa5e"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "4c1853114f8b7a4486dab4466816d644b3044267"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "01291ffac848af54151c1e26d85fc713007c75319655ca78e6e3b84ff2168192"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[QuantReg]]
+arch = "i686"
+git-tree-sha1 = "cdd84377b81790151874410ef7c3bc746d572840"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "6ad0b83d0f97b1446c2736c49347b7b7915e1309ed942a79dbc2c7a65f69b278"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.i686-linux-musl-libgfortran5.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "bb450f3aaa8444eb3fb99eaa3ccdb171efa94bf4"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[QuantReg.download]]
+    sha256 = "1bed557e1d440d30057b59575d282954c632b64bccd60186bf59897879799ade"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
+[[QuantReg]]
+arch = "armv7l"
+git-tree-sha1 = "180a8e0974fc5b7a7d321ad9af37ab33f75d3bc4"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "9f84464d3bac0d9f001a886fd2e8122e9f4df7d0a102be96d7cd957be957836d"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "e9a1044a3f981ba4d64a9df2037c7d9420538127"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "84d21e300a1d8289a309802462375b8a5bce296010ab6b9534883f22920e84d4"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-linux-musl-libgfortran5.tar.gz"
+[[QuantReg]]
+arch = "aarch64"
+git-tree-sha1 = "9c2f4cd8a9666abdfa8849ea6d5cf43eeeeffb4b"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "1df708905407070026785afe243304374da24398762e301b79ef65700aaa0de2"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "25db61b343482140255a8a7b1ddee3309e74af7d"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[QuantReg.download]]
+    sha256 = "94ef028718a785f45f02cfbdd10123b264b29ba81f6f04f45c9983134b327dc1"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[QuantReg]]
+arch = "armv7l"
+git-tree-sha1 = "f901246ffef63e8d117d03b75dbf16afa7b51521"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "99e691f0d1460db90a1c5b4910d201dd564100c49f0f598f8544e904fe426629"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[QuantReg]]
+arch = "i686"
+git-tree-sha1 = "ff1173a2c67a5556bd14d5afe6ffdf669788045e"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "42a198c195dd139e81d4d82704157c99795b803466698b4949ea9941ccb40edb"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.i686-linux-musl-libgfortran4.tar.gz"
+[[QuantReg]]
+arch = "aarch64"
+git-tree-sha1 = "8eec76346473fd4d70d63b472d7a6f5eae71c40e"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "31f20ff3b1f500db669641bc8bf906935296aef81d4ac5b03873e2693b6e7c7a"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.aarch64-linux-musl-libgfortran4.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "cf93e6cb6ee77fd758b8962d2c2128951a06e143"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[QuantReg.download]]
+    sha256 = "b6fd61dcda2712f1c34d9b1c6464d54137c0743b87161c59629d644cb3ea3ff6"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-w64-mingw32-libgfortran5.tar.gz"
+[[QuantReg]]
+arch = "aarch64"
+git-tree-sha1 = "602576bdd3c518f93ce7db87e347d82a77a5ab1a"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "d52a85d62ad7ed43efd785d1669e6882140129bafadde259a0c7310e9d4fa60c"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.aarch64-linux-musl-libgfortran3.tar.gz"
+[[QuantReg]]
+arch = "armv7l"
+git-tree-sha1 = "1aeef3cac6fd194ad5359c84c481da6767e12b64"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "080b1c094f3f3fae73e641af6d56d0370f49c2f48d19ca4c505cd2995ad4d4fb"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[QuantReg]]
+arch = "i686"
+git-tree-sha1 = "4550e6605fb07a1fac6b41ae1fbc0a70587708bf"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "cea83c80776552d4e33059ea576d607f00a3dbf2008aeae8ef266a89e661b65e"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.i686-linux-gnu-libgfortran3.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "b06d0ca553a5451fecf90788a24feab8abab9508"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[QuantReg.download]]
+    sha256 = "efe493ba219e24ed428208bf8f441f2cfe6673b1bcdcf223a7890d8b801bf324"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
+[[QuantReg]]
+arch = "i686"
+git-tree-sha1 = "dc2b985fa262856e10f294e01567dca6bc200d69"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[QuantReg.download]]
+    sha256 = "af4a3458f6be8ae0e61232182e13f730f08c91997e725a5fb6ebfcc493cb2e06"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.i686-w64-mingw32-libgfortran4.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "47141c7ed9dba17fe3461f095c0350e14a0b0026"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[QuantReg.download]]
+    sha256 = "d02933ec5ac09a02892bd688a823314f3cba29ce3829a12991efcb0e4011c38d"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-apple-darwin14-libgfortran4.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "402442dbff97f92c64fd5614436de9b351423b8c"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[QuantReg.download]]
+    sha256 = "98bda88281b89abfe5ebb0b1d158a07564b1ed42863cf56e10d42e7f36e2efda"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "b0c7c878159ba57d85740f8da4018dacad2a06ba"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "7912fcaf5ef4a001faeef1392870f4b8abb04c88e5446be9e1107cbabd7a5490"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-linux-musl-libgfortran3.tar.gz"
+[[QuantReg]]
+arch = "i686"
+git-tree-sha1 = "30096883b0b8bf99ebecde003dd4bc13fb1890e2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "aaa227d00de6633d799e8c90d385d02159cde54eb9250c3c8b59358269a3b4bf"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.i686-linux-gnu-libgfortran5.tar.gz"
+[[QuantReg]]
+arch = "aarch64"
+git-tree-sha1 = "d481c81f75d2204860a38d4e89fe5d2d562acd8d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "2ad4368eb26a0a0cd99fff218f980cbf523822ed226841a06c01a30629112555"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.aarch64-linux-musl-libgfortran5.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "bcb5ede86cfc71dd45b08f8cb1164df80d68be2f"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[QuantReg.download]]
+    sha256 = "7674cea754a6d69c4cb8e5cef022376214f6b8e024df5d241e7407ac66dfa1ba"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-apple-darwin14-libgfortran5.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "de9f982e9807694ef9abe1cb0855e213315ff6e3"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[QuantReg.download]]
+    sha256 = "dfaa3b0e9504ffb890d8348410e76a931f58c8206d6016841e17d75aceaf1125"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
+[[QuantReg]]
+arch = "aarch64"
+git-tree-sha1 = "0310d21adb931305c1aaea1ad38e995ed1842199"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "dc06b390325816fe5797b1d51cfdb07218455cbf6a762f1f961c478fad3d756f"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[QuantReg]]
+arch = "i686"
+git-tree-sha1 = "c9249135d50e7e559999082a0a515c7958a488f9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "657d4f3b85f5d58e172bdb2e98883465b14c90fa71164ce3698fa7ce81a466fc"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.i686-linux-gnu-libgfortran4.tar.gz"
+[[QuantReg]]
+arch = "i686"
+git-tree-sha1 = "75eadafbd282c1a67105519edb0bda46ab771979"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[QuantReg.download]]
+    sha256 = "eff41af636066ac8e8c697ecf06ddebeca638212bdeb3c00b37772b0202c4084"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.i686-w64-mingw32-libgfortran5.tar.gz"
+[[QuantReg]]
+arch = "aarch64"
+git-tree-sha1 = "374f7a271030082af7dd0c073f81e3b381bcaf6f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "fa3613ccb1bd0d238af03e98b4ba9e05e41c877a90bb3230999c84ba6231078d"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[QuantReg]]
+arch = "i686"
+git-tree-sha1 = "110c6fc61e265956c26e74833b44726bfc751d2a"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "c1377f540c6e0519688c2b5138241fcf6c8a4488970a13dd20e79e37385695ff"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.i686-linux-musl-libgfortran3.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "371a36030f8f8be4577fe2d474596fb808cfd36d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "69b556c4230420d03659ff108c8d378ed63d798a15cab189901a3cb6ffe0ba59"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[QuantReg]]
+arch = "i686"
+git-tree-sha1 = "0546e0716f7f884c03b7638ce26af744ef9056ed"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[QuantReg.download]]
+    sha256 = "a9c878797b40e66d608b9d0ab974512cbbf4f362a1b47a6dcc11a9de721aca9f"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.i686-w64-mingw32-libgfortran3.tar.gz"
+[[QuantReg]]
+arch = "armv7l"
+git-tree-sha1 = "270b37b847b45cd6fcf11b8534b3f9f5af80bec9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "24b2f3b529cc2785011842f19e46db5bf318bac8cb69a7e7ca6fa92a69e3231f"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "6aa04c3725dce9d6ed432bc921a06aae3f9fd01a"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "84c7e5e8328d792f495d9bf2f097b9cf4dbb76c431f5b1945e7d18c2a6527cc5"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-linux-musl-libgfortran4.tar.gz"
+[[QuantReg]]
+arch = "armv7l"
+git-tree-sha1 = "7c162ec02449c40c555bf6ff141509fc591a3cfa"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QuantReg.download]]
+    sha256 = "d1480ca1aa115e601fec54259a3ae6f6b5b96639f4f7bec74d2528c4ec12a5b3"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[QuantReg]]
+arch = "x86_64"
+git-tree-sha1 = "8b45dcd4b6ca54ff044d8cd17e20117fd68ea767"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[QuantReg.download]]
+    sha256 = "5025b3af6cfae55801fe55d80e16577c0715bd3865b49e44edca9f5435476cf6"
+    url = "https://github.com/JuliaBinaryWrappers/QuantReg_jll.jl/releases/download/QuantReg-v0.1.2+0/QuantReg.v0.1.2.x86_64-apple-darwin14-libgfortran3.tar.gz"
